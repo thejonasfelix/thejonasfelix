@@ -31,7 +31,7 @@ Análise financeira e orçamentária
 Planejamento estratégico
 Gestão de processos
 
-## 🧠 Skills
+## 🛠️​ Skills
 
 Python
 
