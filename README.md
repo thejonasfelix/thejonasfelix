@@ -1,37 +1,36 @@
-# Jonas Fernandes
+Prazer, Sou o Jonas Fernandes!
 
-🎓 Inteligência Artificial em Sistemas de Informação — São Paulo Tech School  
-📊 Dados • Finanças • Estratégia  
+Estudante de tecnologia com interesse em análise quantitativa, dados e aplicações no mercado financeiro.
 
----
+💼 Experiência
 
-## Sobre mim
+Aprendiz FP&A | Nuvemshop
+Mai 2025 – Fev 2026
+Análise de desempenho financeiro, acompanhamento de KPIs e suporte à tomada de decisão orientada por dados.
 
-Estudante de Inteligência Artificial com formação técnica em Administração e experiência prática em Planejamento e Análise Financeira (FP&A).
+🎓 Formação Acadêmica
 
-Atuo na interseção entre dados, finanças e tecnologia, com foco em organização de informações, análise estruturada e suporte à tomada de decisão baseada em indicadores.
+Sistemas de Informação | São Paulo Tech School (SPTech)
+Fev 2026 – Dez 2029
 
----
+Estruturas de dados e algoritmos
+Modelagem e análise de dados
+Fundamentos de inteligência artificial
+Lógica computacional
 
-## Experiência
+Técnico em Administração | ETEC André Bogasian
+Jan 2022 – Dez 2024
 
-### FP&A — Planejamento e Análise Financeira
+Análise financeira e orçamentária
+Planejamento estratégico
+Gestão de processos
 
-- Suporte na análise de indicadores financeiros  
-- Organização e estruturação de bases de dados  
-- Acompanhamento de desempenho e métricas  
-- Apoio na construção de relatórios gerenciais  
+🧠 Skills
+Python
+JavaScript & HTML
+SQL
+Excel & Power BI
 
----
-
-## Competências Técnicas
-
-- Python (análise e automação de dados)  
-- SQL (consulta e manipulação de bases)  
-- Excel (análise financeira e modelagem)  
-- Power BI (visualização de indicadores)  
-- Estruturação e modelagem de dados  
-- Construção de métricas e KPIs  
-
-
-> Disciplina. Consistência. Execução orientada a resultado.
+📬 Contato
+GitHub: https://github.com/thejonasfelix
+LinkedIn: www.linkedin.com/in/jonasfernandesdias
