@@ -4,27 +4,22 @@ Estudante de tecnologia com interesse em análise quantitativa, dados e aplicaç
 
 ## 💼 Experiência
 
-Aprendiz FP&A | Nuvemshop
-
-Mai 2025 – Fev 2026
+Aprendiz FP&A | Nuvemshop<br>
+Mai 2025 – Fev 2026<br>
 
 Análise de desempenho financeiro, acompanhamento de KPIs e suporte à tomada de decisão orientada por dados.
 
 ## 🎓 Formação Acadêmica
 
-Sistemas de Informação | São Paulo Tech School (SPTech)
-
-Fev 2026 – Dez 2029
+Sistemas de Informação | São Paulo Tech School (SPTech)<br>
+Fev 2026 – Dez 2029<br>
 
 Estruturas de dados e algoritmos
 Modelagem e análise de dados
 Fundamentos de inteligência artificial
-Lógica computacional
+Lógica computacional<br><br>
 
-
-
-Técnico em Administração | ETEC André Bogasian
-
+Técnico em Administração | ETEC André Bogasian<br>
 Jan 2022 – Dez 2024
 
 Análise financeira e orçamentária
@@ -33,16 +28,12 @@ Gestão de processos
 
 ## 🛠️​ Skills
 
-Python
-
-JavaScript & HTML
-
-SQL
-
-Excel & Power BI
+Python<br>
+JavaScript & HTML<br>
+SQL<br>
+Excel & Power BI<br>
 
 ## 📬 Contato
 
-GitHub: https://github.com/thejonasfelix
-
-LinkedIn: www.linkedin.com/in/jonasfernandesdias
+GitHub: https://github.com/thejonasfelix<br>
+LinkedIn: www.linkedin.com/in/jonasfernandesdias<br>
