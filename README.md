@@ -21,6 +21,8 @@ Modelagem e análise de dados
 Fundamentos de inteligência artificial
 Lógica computacional
 
+
+
 Técnico em Administração | ETEC André Bogasian
 
 Jan 2022 – Dez 2024
@@ -32,11 +34,15 @@ Gestão de processos
 ## 🧠 Skills
 
 Python
+
 JavaScript & HTML
+
 SQL
+
 Excel & Power BI
 
 ## 📬 Contato
 
 GitHub: https://github.com/thejonasfelix
+
 LinkedIn: www.linkedin.com/in/jonasfernandesdias
