@@ -1,14 +1,14 @@
-Prazer, Sou o Jonas Fernandes!
+## Prazer, Sou o Jonas Fernandes!
 
 Estudante de tecnologia com interesse em análise quantitativa, dados e aplicações no mercado financeiro.
 
-💼 Experiência
+## 💼 Experiência
 
 Aprendiz FP&A | Nuvemshop
 Mai 2025 – Fev 2026
 Análise de desempenho financeiro, acompanhamento de KPIs e suporte à tomada de decisão orientada por dados.
 
-🎓 Formação Acadêmica
+## 🎓 Formação Acadêmica
 
 Sistemas de Informação | São Paulo Tech School (SPTech)
 Fev 2026 – Dez 2029
@@ -25,12 +25,14 @@ Análise financeira e orçamentária
 Planejamento estratégico
 Gestão de processos
 
-🧠 Skills
+## 🧠 Skills
+
 Python
 JavaScript & HTML
 SQL
 Excel & Power BI
 
-📬 Contato
+## 📬 Contato
+
 GitHub: https://github.com/thejonasfelix
 LinkedIn: www.linkedin.com/in/jonasfernandesdias
