@@ -1,6 +1,6 @@
 # Prazer, sou o Jonas Fernandes!
 
-Graduando em Sistemas de Informação com bagagem em finanças (FP&A) e foco em Análise Quantitativa e Ciência de Dados. Escrevo código principalmente em Python, Java, R e SQL.
+Graduando em Sistemas de Informação com bagagem em finanças (FP&A) e foco em Análise Quantitativa e Ciência de Dados. Construo soluções principalmente em Python, Java, R e SQL.
 
 ---
 
